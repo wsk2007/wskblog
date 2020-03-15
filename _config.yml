@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://wsk2007.github.io
+url: https://wsk2007.github.io/wskblog
 date_format: "ordinal"
 title: wsk's blog
 subtitle: "wsk的博客"
